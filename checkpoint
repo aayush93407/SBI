@@ -1,0 +1,2 @@
+model_checkpoint_path: "efficient_net_vehicle.ckpt"
+all_model_checkpoint_paths: "efficient_net_vehicle.ckpt"
